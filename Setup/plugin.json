@@ -1,0 +1,7 @@
+{
+"title": "Controller Redirect Plugin",
+"version": "0.1",
+"name": "ControllerRedirectPlugin",
+"description": "Define your Redirect Routes via a backend",
+"author": "Jonas Duri - OYGO GmbH 2015"
+}
